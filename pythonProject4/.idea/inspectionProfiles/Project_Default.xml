@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="1" class="java.lang.String" itemvalue="duckduckgo_search" />
+            <item index="2" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="3" class="java.lang.String" itemvalue="pydub" />
+            <item index="4" class="java.lang.String" itemvalue="requests" />
+            <item index="5" class="java.lang.String" itemvalue="python-telegram-bot" />
+            <item index="6" class="java.lang.String" itemvalue="spotipy" />
+            <item index="7" class="java.lang.String" itemvalue="openai" />
+            <item index="8" class="java.lang.String" itemvalue="pytube" />
+            <item index="9" class="java.lang.String" itemvalue="whois" />
+            <item index="10" class="java.lang.String" itemvalue="tenacity" />
+            <item index="11" class="java.lang.String" itemvalue="wolframalpha" />
+            <item index="12" class="java.lang.String" itemvalue="gtts" />
+            <item index="13" class="java.lang.String" itemvalue="Pillow" />
+            <item index="14" class="java.lang.String" itemvalue="pywin32" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="aiogram.Both" />
+          <option value="aiogram.dispatcher.Dispatcher" />
+          <option value="aiogram.utils.executor" />
+          <option value="bot.main.dotenv" />
+          <option value="win32ui" />
+          <option value="testStore.generate_order_code" />
+          <option value="testStore.pdf" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
